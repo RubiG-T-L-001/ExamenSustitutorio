@@ -1,0 +1,31 @@
+package TestEntidades;
+
+
+import DaoImp.UsuarioImp;
+import model.TblUsuariosusti;
+
+public class TestUsuario {
+
+	public static void main(String[] args) {
+		TblUsuariosusti tblusu=new TblUsuariosusti();
+		UsuarioImp climp=new UsuarioImp();
+		
+		tblusu.setUsuariosusti("USU");
+		tblusu.setPasswordsusti("1234");
+		
+		climp.
+		
+		
+		/*tblcli.setNombre("mariela");
+		tblcli.setApellido("chavez chavez");
+		tblcli.setSex("f");
+		tblcli.setDni("10457896");
+		tblcli.setEmail("miguel@gmail.com");
+		//invocamos al metodo registrar
+		climp.RegistrarCliente(tblcli);
+		//emitimos mensaje por consola
+		System.out.println("dato registrado en BD...");*/
+
+	}
+
+}

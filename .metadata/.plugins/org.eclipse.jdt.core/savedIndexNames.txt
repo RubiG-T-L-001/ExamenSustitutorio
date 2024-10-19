@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\ktuer\OneDrive\Documentos\Downloads\LPII_Tueros Lucana_Rubi Giuliana\.metadata\.plugins\org.eclipse.jdt.core
+3300342405.index
